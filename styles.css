@@ -1,0 +1,57 @@
+body{
+    color:black;
+    background:white;
+    margin: 0px;
+}
+
+
+header {
+    text-decoration: underline #0618d6e2 solid ;
+    font-size: 50px;
+    color:#f1f524;
+}
+
+
+
+
+div{
+    margin-right: 30px;
+}
+
+.foto img{
+    width: 400px;
+    height: 250px;
+}
+
+h3{
+    font-size: 30px;
+    font-weight:10px;
+}
+
+p{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 30px;
+    font-weight:10px; 
+}
+
+
+
+h5{
+    font-size: 30px;
+    font-weight: 10px;
+}
+
+
+h6{
+    font-size: 30px;
+    font-weight: 10px;
+
+}
+
+h7{
+    font-size: 30px;
+    font-weight:10px;
+}
